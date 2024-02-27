@@ -17,6 +17,7 @@
 		C88E10852B7E40170040D8F3 /* EmojiMemoryGameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C88E10842B7E40170040D8F3 /* EmojiMemoryGameView.swift */; };
 		C88E10872B7E40180040D8F3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C88E10862B7E40180040D8F3 /* Assets.xcassets */; };
 		C88E108A2B7E40180040D8F3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C88E10892B7E40180040D8F3 /* Preview Assets.xcassets */; };
+		C892260D2B8F1DC3003439B2 /* FlyingNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = C892260C2B8F1DC3003439B2 /* FlyingNumber.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		C88E10842B7E40170040D8F3 /* EmojiMemoryGameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiMemoryGameView.swift; sourceTree = "<group>"; };
 		C88E10862B7E40180040D8F3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C88E10892B7E40180040D8F3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C892260C2B8F1DC3003439B2 /* FlyingNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlyingNumber.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				C881EEBC2B7F566C00C982AA /* MemoryGame.swift */,
 				C881EEBE2B7F84DF00C982AA /* EmojiMemoryGame.swift */,
 				C88E10842B7E40170040D8F3 /* EmojiMemoryGameView.swift */,
+				C892260C2B8F1DC3003439B2 /* FlyingNumber.swift */,
 				C88E10822B7E40170040D8F3 /* MemorizeApp.swift */,
 				C88E10862B7E40180040D8F3 /* Assets.xcassets */,
 				C88E10882B7E40180040D8F3 /* Preview Content */,
@@ -157,6 +160,7 @@
 			files = (
 				C88E10852B7E40170040D8F3 /* EmojiMemoryGameView.swift in Sources */,
 				C88E10832B7E40170040D8F3 /* MemorizeApp.swift in Sources */,
+				C892260D2B8F1DC3003439B2 /* FlyingNumber.swift in Sources */,
 				C879F0922B8DD4F8001E95E1 /* Cardify.swift in Sources */,
 				C881EEBD2B7F566C00C982AA /* MemoryGame.swift in Sources */,
 				C879F08C2B8C86AD001E95E1 /* AspectVGrid.swift in Sources */,
